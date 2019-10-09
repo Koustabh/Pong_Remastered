@@ -7,5 +7,3 @@ Originally programmed by Atari in 1972. Features two paddles, controlled by play
 2600 in terms of resolution, though in widescreen (16:9) so it looks nicer on modern systems. 
 
 This is an updated version where player 2 is CPU or AI
-
-Audio files are missing because it cannot be uploaded here
